@@ -19,3 +19,6 @@ This repository contains simple to intermediate Java programs categorized by top
 - and more...
 
 Each day brings a new problem with its corresponding Java solution and comments to help with clarity and understanding.
+
+Day 1 - Check if the number is positive or negative.
+Day 2 - Check if the number is even or odd.
