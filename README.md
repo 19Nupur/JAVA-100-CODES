@@ -20,5 +20,5 @@ This repository contains simple to intermediate Java programs categorized by top
 
 Each day brings a new problem with its corresponding Java solution and comments to help with clarity and understanding.
 
-Day 1 - Check if the number is positive or negative.
-Day 2 - Check if the number is even or odd.
+🔸[Day 1](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day01.java) - Check if the number is positive or negative.
+🔸[Day 2](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day02.java) - Check if the number is even or odd.
