@@ -3,6 +3,7 @@ import java.util.*;
 public class Day01{
     public static void main(String args[]){
         Scanner s = new Scanner(System.in);
+        System.out.print("Enter number: - ");
         int number = s.nextInt();
 
         //using Ternary operator
