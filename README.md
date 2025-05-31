@@ -26,3 +26,4 @@ Each day brings a new problem with its corresponding Java solution and comments 
 - [Day 3](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day03.java) - Find the Sum of First N Natural Numbers.
 - [Day 4](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day04.java) - Find the Sum of numbers in a given range.
 - [Day 5](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day05.java) - Find Greatest of Two Numbers.
+- [Day 6](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day06.java) - Find the Greatest Number Among Three Numbers.
