@@ -24,4 +24,5 @@ Each day brings a new problem with its corresponding Java solution and comments 
 - [Day 1](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day01.java) - Check if the number is positive or negative.
 - [Day 2](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day02.java) - Check if the number is even or odd.
 - [Day 3](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day03.java) - Find the Sum of First N Natural Numbers.
-- [Day 4](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day04.java) - Find the Sum of numbers in a given range:
+- [Day 4](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day04.java) - Find the Sum of numbers in a given range.
+- [Day 5](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day05.java) - Find Greatest of Two Numbers.
