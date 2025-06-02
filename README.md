@@ -28,3 +28,4 @@ Each day brings a new problem with its corresponding Java solution and comments 
 - [Day 5](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day05.java) - Find Greatest of Two Numbers.
 - [Day 6](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day06.java) - Find the Greatest Number Among Three Numbers.
 - [Day 7](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day07.java) - Check Leap Year or not.
+- [Day 8](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day08.java) - Prime Number Program.
