@@ -32,3 +32,4 @@ Each day brings a new problem with its corresponding Java solution and comments 
 - [Day 9](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day09.java) - Prime numbers in a given range.
 - [Day 10](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day10.java) - Sum of digits of a Number.
 - [Day 11](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day11.java) - Reverse a given number.
+- [Day 12](https://github.com/19Nupur/JAVA-100-CODES/blob/main/Day12.java) - Palindrome Program.
